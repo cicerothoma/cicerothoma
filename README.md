@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/cicerothoma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+Developer;AI+Enthusiast;RAG+%26+LLM+Tinkerer;Lifelong+Learner+%26+Philosophy+Reader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineer;AI+Enthusiast;RAG+%26+LLM+Tinkerer;Lifelong+Learner+%26+Philosophy+Reader" alt="Typing SVG" />
   </a>
 </p>
 
